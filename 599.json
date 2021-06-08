@@ -1,0 +1,88 @@
+{
+  "$jason": {
+    "body": {
+      "style": {
+        "background": "#233340",
+        "border": "none"
+      },
+      "sections": [
+        {
+          "items": [
+            {
+              "style": {
+                "padding_top": 48,
+                "padding_right": 128,
+                "padding_bottom": 48,
+                "padding_left": 128,
+                "color": "#f4f7f7",
+                "size": 48,
+                "align": "center"
+              },
+              "ref": "h1",
+              "type": "label",
+              "text": "MacBook Description",
+              "components": [
+                {
+                  "type": "label",
+                  "text": "MacBook Description"
+                }
+              ]
+            },
+            {
+              "type": "speak",
+              "text": "MacBook Air is completely transformed by the power of Apple-designed M1 chip."
+            },
+            {
+              "type": "conversation",
+              "pepper_chat": {
+                "output": "MacBook Air is completely transformed by the power of Apple-designed M1 chip",
+                "error": "Sorry, The product you are looking for isn't available",
+                "conversations": [
+                  {
+                    "conversationId": 12,
+                    "chat": {
+                      "input": [
+                        "iPhone X",
+                        "Iphone 11",
+                        "IPhone 12"
+                      ],
+                      "nextScreen": {
+                        "id": "616"
+                      }
+                    }
+                  },
+                  {
+                    "conversationId": 13,
+                    "chat": {
+                      "input": [
+                        "MacBook Air",
+                        "MacBook Pro",
+                        "iMAC"
+                      ],
+                      "nextScreen": {
+                        "id": "599"
+                      }
+                    }
+                  },
+                  {
+                    "conversationId": 14,
+                    "chat": {
+                      "input": [
+                        "Jbl headphone",
+                        "jbl earphone",
+                        "Jbl"
+                      ],
+                      "nextScreen": {
+                        "id": "610"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
