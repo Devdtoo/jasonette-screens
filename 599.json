@@ -29,10 +29,6 @@
               ]
             },
             {
-              "type": "speak",
-              "text": "MacBook Air is completely transformed by the power of Apple-designed M1 chip."
-            },
-            {
               "type": "conversation",
               "pepper_chat": {
                 "output": "MacBook Air is completely transformed by the power of Apple-designed M1 chip",
