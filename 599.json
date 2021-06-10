@@ -38,12 +38,10 @@
                     "conversationId": 12,
                     "chat": {
                       "input": [
-                        "iPhone X",
-                        "Iphone 11",
-                        "IPhone 12"
+                      
                       ],
                       "nextScreen": {
-                        "id": "616"
+                       
                       }
                     }
                   },
@@ -51,12 +49,10 @@
                     "conversationId": 13,
                     "chat": {
                       "input": [
-                        "MacBook Air",
-                        "MacBook Pro",
-                        "iMAC"
+                       
                       ],
                       "nextScreen": {
-                        "id": "599"
+                      
                       }
                     }
                   },
@@ -64,12 +60,10 @@
                     "conversationId": 14,
                     "chat": {
                       "input": [
-                        "Jbl headphone",
-                        "jbl earphone",
-                        "Jbl"
+                      
                       ],
                       "nextScreen": {
-                        "id": "610"
+                       
                       }
                     }
                   }
